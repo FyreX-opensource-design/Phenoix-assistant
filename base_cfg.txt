@@ -1,0 +1,8 @@
+## Temp Unit
+C
+## Wind Speed Unit
+kph
+## Time Format
+24
+## Date Fromat
+dmy
