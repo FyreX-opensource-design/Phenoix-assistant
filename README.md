@@ -1,4 +1,4 @@
 # Phenoix-assistant
-A linux voice assistant using JustSayIt via Julia and Python for speech
+A linux voice assistant using speech-recognition-fork, vosk, and pyaudio for speech recognition; pyttsx3 for speech; and gpt4all for general questions.
 
-Currently, it is in the POC stage as I'm not well-versed in Julia or Shell. ATM the install script only supports Ubuntu, Debian, and Arch-based distros
+Currently, it is in the POC stage, but it may work to some extent.
